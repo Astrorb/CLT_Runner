@@ -3,7 +3,6 @@
   "%Name":"o_clt",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"o_player","path":"objects/o_player/o_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
@@ -32,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_clt",
-    "path":"sprites/spr_clt/spr_clt.yy",
+    "name":"Gemini_Generated_Image_dhkretdhkretdhkr",
+    "path":"sprites/Gemini_Generated_Image_dhkretdhkretdhkr/Gemini_Generated_Image_dhkretdhkretdhkr.yy",
   },
   "spriteMaskId":null,
   "visible":true,
