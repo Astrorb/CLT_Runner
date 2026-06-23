@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Gemini_Generated_Image_dhkretdhkretdhkr",
-    "path":"sprites/Gemini_Generated_Image_dhkretdhkretdhkr/Gemini_Generated_Image_dhkretdhkretdhkr.yy",
+    "name":"spr_littleDino",
+    "path":"sprites/spr_littleDino/spr_littleDino.yy",
   },
   "spriteMaskId":null,
   "visible":true,
