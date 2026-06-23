@@ -1,4 +1,4 @@
-sprite_index = choose(spr_batata,spr_chocolate,spr_coxinha,spr_hamburg);
+sprite_index = choose(spr_controller,spr_noodles,spr_display,spr_dino_egg,spr_cola);
 
 x = choose(3,176);
 

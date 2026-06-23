@@ -33,10 +33,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_batata",
-    "path":"sprites/spr_batata/spr_batata.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
