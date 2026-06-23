@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"Snd_Lightning",
+  "%Name":"snd_Lightning",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -12,7 +12,7 @@
   "conversionMode":0,
   "duration":2.0,
   "exportDir":"",
-  "name":"Snd_Lightning",
+  "name":"snd_Lightning",
   "parent":{
     "name":"Sons",
     "path":"folders/Sons.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Snd_Lightning.mp3",
-  "volume":0.57,
+  "soundFile":"snd_Lightning.mp3",
+  "volume":0.49,
 }

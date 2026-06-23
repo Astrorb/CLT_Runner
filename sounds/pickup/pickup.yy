@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":0.14002268,
+  "duration":0.6779592,
   "exportDir":"",
   "name":"pickup",
   "parent":{
